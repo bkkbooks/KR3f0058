@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3f0058/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 玉符瑞圖龍出虞舜時黃龍從洛水出詣舜鱗甲成字舜即位與三公臨觀黃龍五采負圖出舜前白泉泉色白自出山澤得禮制則澤谷之白泉出飲之使人長壽蒼烏見文王時見蒼烏王者孝悌則至火為朱烏赤烏武王時啣穀至屋上兵不血刅而殷服鳳凰之佐鸞鳥者赤神之精鳳凰之佐鷄身赤色色亦被五彩鳴中五音肅肅雍雍喜則鳴舞人君進退有慶親踈有序則至一本曰心識鍾律律調則至鳴舞以和之銜珠而舞晉平公鼓琴有玄鶴二八而下銜明珠舞于庭一鶴失珠覔得而走師曠掩口而笑白鵠翔師曠鼓琴通于神明而白鵠翔
+  hash: sha256:362b45960fc7a2143786738677d98c964e00b9897d1c394aa8b243963d1f0cf3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3f0058_CHANT_001-1a.1-h}
+metadata:
+  title: 玉符瑞圖一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0058.xml
+hash: sha256:aef84bbdc1073c8c66c0c4b5971b7dac401baa6861d4e1ab72b9f06e2ed811ec

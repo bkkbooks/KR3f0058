@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3f0058/v1
+canonical_location: https://kanripo.org/bkk/KR3f0058/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 玉符瑞圖一卷
+  identifiers:
+    krp: KR3f0058
+  tags:
+    kr-categories: KR3f
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0058.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3f0058_001.yaml, hash: 'sha256:4b03e728d27a9f46e3097d6e5be74d47ba11fa9de36c4fbbea2f395f7090d546'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0058_001.markers.yaml, hash: 'sha256:92c036322574acb1df13dda2505f5c8cb2c0a9e7d96d23cc235b0e386435c6b6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0058_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 214
+  label: 玉符瑞圖
+  type: section
+  level: 1
+hash: sha256:9a4a7f8e71e425ca428edd5536146c6c8884588a65b8f510d52a768d3afbc8fd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
